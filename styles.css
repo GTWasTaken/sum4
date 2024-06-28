@@ -1,0 +1,43 @@
+body{
+    background-image: url("bg.png");
+    color:white;
+    font-family: "Lato Extended","Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.container-sm{
+    width:400px;
+    padding: 12px;
+    margin-top:50px;
+}
+a{
+    font-size: small;
+    color:white;
+}
+.col input{
+    height:38px;
+    width:100%;
+    border-radius: 5px;
+}
+
+h6{font-weight: bolder;}
+
+.test{
+    position:absolute;
+}
+
+button{
+    text-align: center;
+    width:132px;
+}
+
+.breaker{
+    background-color: #ccc;
+    margin-top:24px;
+    margin-bottom:12px;
+    height:2px;
+}
+
+li{
+    list-style: none;
+    display:inline;
+    padding:6px;
+}
